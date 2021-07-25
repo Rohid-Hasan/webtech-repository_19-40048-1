@@ -1,0 +1,30 @@
+/* centering all my content */
+.wrapper{
+    margin:0 auto;
+    width:70%;
+    justify-content: center;
+    text-align: center;
+}
+/* 
+full width */
+.full-wrapper{
+    width:100%;
+    background-color:rgb(41, 37, 37);
+    height: 100%;
+}
+
+/* setting the font size */
+.wrapper h1{
+    font-size: 5rem;
+    font-weight: 100;
+    margin-top: 0px;
+    color:white;
+}
+
+/* styleing the h3 */
+.wrapper h3{
+    color: blanchedalmond;
+    font-weight: 800;
+    margin:2em 0em 5em 0em;
+    font-size: 2rem;
+}
